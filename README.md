@@ -24,7 +24,7 @@ Both applications feature sleek GUIs built with PyQt and handle student data thr
 ### Clone the Repository
 ```bash
 git clone https://github.com/Fazeel-AIML/QR_Code_Ticket_Generator.git
-cd qr-code-app
+cd QR_Code_Ticket_Generator
 ```
 ## Libraries
 - PyQt5
