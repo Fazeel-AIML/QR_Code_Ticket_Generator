@@ -9,7 +9,7 @@ class QRCodeCreationApp(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.students_data = self.load_entries_from_excel()  # Load existing entries
+        self.students_data = self.load_entries_from_excel()  #Load existing entries
         self.init_ui()
 
     def init_ui(self):
