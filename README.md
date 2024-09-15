@@ -32,4 +32,4 @@ cd QR_Code_Ticket_Generator
 - pandas
 - opencv-python
 
-![App Demo]()
+![App Demo](Tickek.gif)
