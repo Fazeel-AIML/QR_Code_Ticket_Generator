@@ -1,4 +1,4 @@
-# QR Code Creation and Scanning App
+# QR Code Ticket Creation and Scanning App
 
 This project consists of two main Python applications:
 
